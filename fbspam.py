@@ -52,7 +52,7 @@ class fbspam:
                               
           [Facebook Multi Chat Tool  2020]\n"""+C+p+"""      Youtube Channel: x-Rahba-_iq
        facebook : saif waleed
-       github: https://github.com/Cabdulahi
+       github: https://github.com/Yousef56/saif.git
        developer: saif waleed
        """
       print '-'*43
