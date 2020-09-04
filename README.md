@@ -4,7 +4,7 @@
 -----------------------------------------------------------
 
 
-1: $ git clone https://github.com/Cabdulahi/Fbspam
+1: $ git clone https://github.com/Yousef56/saif.git
 
 2: $ cd Fbspam
 
